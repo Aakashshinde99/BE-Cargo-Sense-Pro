@@ -5,7 +5,7 @@
     - https://wokwi.com/projects/388267915240027137
 
 ### Thingspeak Server Public View : 
-    - https://thingspeak.com/channels/2035354
+    - https://thingspeak.com/channels/2416541
 
 ### Deployed Website : 
     - https://aakashshinde99.github.io/BE-Cargo-Sense-Pro/
